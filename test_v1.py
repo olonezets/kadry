@@ -15,7 +15,7 @@ date1 = datetime.datetime(
 date2 = datetime.datetime(
     int(input('enter_a_last_year:')),
     int(input('enter_a_last_month:')),
-    int(input('enter_a_last_day:'))2017
+    int(input('enter_a_last_day:'))
     )
 
 print(numOfDays(date1, date2), "days_betwen_date")
